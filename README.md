@@ -1,9 +1,11 @@
-
+<style>
+h1 {
+text-align: center;
+}
+</style>
 
 ![Nienke](/assets/nienk-header.png)
-<div style="text-align: center">
-<h1> 👋 Hi, I’m @NienkeJansen</h1>
-</div>
+# 👋 Hi, I’m @NienkeJansen
 
 [comment]: <> (- 👋 Hi, I’m @NienkeJansen)
 
